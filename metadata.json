@@ -1,0 +1,5 @@
+{
+  "name": "Treinando uma Rede Neural",
+  "description": "Uma aplicação web interativa para estudantes aprenderem os conceitos de redes neurais e retropropagação, ajustando pesos e bias manualmente para treinar um modelo simples.",
+  "requestFramePermissions": []
+}
